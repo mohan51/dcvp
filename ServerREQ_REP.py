@@ -77,8 +77,8 @@ def process_frame(pi_name, frame):
 
 # Create a list of Raspberry Pi names and their corresponding IP addresses
 pis = {
-    'pi1': '10.11.10.57',
-    #'pi2': '10.11.6.141'
+    'pi1': '100.110.110.157',
+    #'pi2': '100.111.116.141'
     # 'pi3': '192.126.138.102'
 }
 
